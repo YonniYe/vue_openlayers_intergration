@@ -1,24 +1,13 @@
 # simple-vue-layer
-
-## Project setup
-```
+  记录在集成vue和openlayers的过程中的学习心得，把源码放在此。
+  本章的博客地址：https://www.cnblogs.com/yonniye/p/14328222.html
+  
+### 搭建项目
+```shell
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 编译与运行
+```shell
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
