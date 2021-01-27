@@ -1,6 +1,6 @@
 # simple-vue-layer
   记录在集成vue和openlayers的过程中的学习心得，把源码放在此。
-  本章的博客地址：https://www.cnblogs.com/yonniye/p/14328222.html
+  本章的博客地址：https://www.cnblogs.com/yonniye/p/14337535.html#/c/subject/p/14337535.html
   
 ### 搭建项目
 ```shell
