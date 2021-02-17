@@ -2,10 +2,10 @@
   <div id="app">
     <div class="cell cell-map">
       <!-- 使用 -->
-      <MapContainer> </MapContainer>
+      <MapContainer></MapContainer>
     </div>
     <div class="cell cell-panel">
-      Panel
+      <Panel></Panel>
     </div>
     <div class="cell cell-inspect">
       Inspect
@@ -15,10 +15,12 @@
 
 <script>
   import MapContainer from './components/MapContainer'  // 导入
+  import Panel from './components/Panel'
   export default {
     name: 'App',
     components: {
-      MapContainer // 注册
+      MapContainer, // 注册
+      Panel
     }
   }
 </script>
