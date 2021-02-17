@@ -19,6 +19,8 @@
   import {DragRotate, defaults as defaultsInteraction} from 'ol/interaction'
   // import {MapBrowserEvent} from 'ol'  // 不需要导入MapBrowserEvent，也不需要导入setVisible
   import {createStringXY} from 'ol/coordinate' // 导入通过export function导出的方法要加大括号
+
+  // 导入ol的CSS样式
   import 'ol/ol.css'
 
   export default {
